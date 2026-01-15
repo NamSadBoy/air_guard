@@ -142,6 +142,7 @@ Co-training: precision cao hơn nhưng thiếu nhạy
 
 📈 Time series AQI alerts (ví dụ 1 trạm)
 Self-training
+<img width="992" height="390" alt="image" src="https://github.com/user-attachments/assets/426b99db-1fa7-4582-ae65-5cf661413daf" />
 
 Dự đoán AQI:
 
@@ -150,6 +151,7 @@ Dao động linh hoạt giữa Moderate → Unhealthy → Hazardous
 Cảnh báo xuất hiện sớm và liên tục trong các đợt ô nhiễm
 
 Co-training
+<img width="992" height="390" alt="image" src="https://github.com/user-attachments/assets/0cde20a3-5182-428d-abf9-878fdeb5c3d1" />
 
 AQI dự đoán:
 
