@@ -1,5 +1,5 @@
-#📊 Air Quality Timeseries — PM2.5 Forecasting & AQI Alerts
-(Supervised + Semi-Supervised Learning)
+# Air Quality Timeseries — PM2.5 Forecasting & AQI Alerts (Supervised + Semi‑Supervised)
+
 
 1️⃣ So sánh Accuracy & F1-macro
 
